@@ -19,14 +19,34 @@ namespace MinValueLinhHo
             lblAnswer.Hide();
         }
 
+        private int GetMinValue(int[] tmpArrayOfNum)
+        {
+            // this function calculates the sum of the values in an array
+            int tmpMinValue = 501;
+            
+            // look through every object in the array
+            foreach (int arrayNum in tmpArrayOfNum)
+            {
+                if (tmpMinValue > arrayNum)
+                {
+                    // set min value to the array num
+                    tmpMinValue = arrayNum;
+                }
+                
+            }
+
+            return tmpMinValue;
+        }
+
         private void BtnStart_Click(object sender, EventArgs e)
         {
             // declare local variables and constants
             const int MAX_ARRAY_SIZE = 10;
             const int MAX_RANDOM_NUMBER = 500;
-            int[] arrayOfMin = new int[MAX_ARRAY_SIZE];
+            int[] arrayNum = new int[MAX_ARRAY_SIZE];
             int counter, randomNumber, minValue;
             Random randomNumberGenerator = new Random();
+
             // Clear list box
             this.lstNumbers.Items.Clear();
 
@@ -36,7 +56,7 @@ namespace MinValueLinhHo
                 randomNumber = randomNumberGenerator.Next(1, MAX_RANDOM_NUMBER + 1);
 
                 // assign the random number to the cell at position counter in the array
-                arrayOfMin[counter] = randomNumber;
+                arrayNum[counter] = randomNumber;
 
                 // Display list
                 this.lstNumbers.Items.Add(randomNumber);
@@ -46,7 +66,7 @@ namespace MinValueLinhHo
             }
 
             // get the min value in the array
-            minValue = GetMinValue(arrayOfMin);
+            minValue = GetMinValue(arrayNum);
 
             // show label
             lblAnswer.Show();

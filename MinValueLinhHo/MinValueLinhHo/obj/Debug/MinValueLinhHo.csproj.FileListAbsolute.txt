@@ -8,3 +8,13 @@ N:\Classes\Sem1-Fall2019\ICS3U Programming\HLinh (s272936)\Unit 5 (Arrays & List
 N:\Classes\Sem1-Fall2019\ICS3U Programming\HLinh (s272936)\Unit 5 (Arrays & Lists)\MinValueLinhHo\MinValueLinhHo\obj\Debug\MinValueLinhHo.csproj.CoreCompileInputs.cache
 N:\Classes\Sem1-Fall2019\ICS3U Programming\HLinh (s272936)\Unit 5 (Arrays & Lists)\MinValueLinhHo\MinValueLinhHo\obj\Debug\MinValueLinhHo.exe
 N:\Classes\Sem1-Fall2019\ICS3U Programming\HLinh (s272936)\Unit 5 (Arrays & Lists)\MinValueLinhHo\MinValueLinhHo\obj\Debug\MinValueLinhHo.pdb
+C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\MinValueLinhHo\MinValueLinhHo\bin\Debug\MinValueLinhHo.exe.config
+C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\MinValueLinhHo\MinValueLinhHo\bin\Debug\MinValueLinhHo.exe
+C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\MinValueLinhHo\MinValueLinhHo\bin\Debug\MinValueLinhHo.pdb
+C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\MinValueLinhHo\MinValueLinhHo\obj\Debug\MinValueLinhHo.csprojAssemblyReference.cache
+C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\MinValueLinhHo\MinValueLinhHo\obj\Debug\MinValueLinhHo.MinValueForm.resources
+C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\MinValueLinhHo\MinValueLinhHo\obj\Debug\MinValueLinhHo.Properties.Resources.resources
+C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\MinValueLinhHo\MinValueLinhHo\obj\Debug\MinValueLinhHo.csproj.GenerateResource.cache
+C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\MinValueLinhHo\MinValueLinhHo\obj\Debug\MinValueLinhHo.csproj.CoreCompileInputs.cache
+C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\MinValueLinhHo\MinValueLinhHo\obj\Debug\MinValueLinhHo.exe
+C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\MinValueLinhHo\MinValueLinhHo\obj\Debug\MinValueLinhHo.pdb
