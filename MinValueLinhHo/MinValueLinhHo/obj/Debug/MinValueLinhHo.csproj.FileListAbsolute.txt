@@ -12,9 +12,9 @@ C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\MinValueLinhHo\MinValueLinhHo\bin\De
 C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\MinValueLinhHo\MinValueLinhHo\bin\Debug\MinValueLinhHo.exe
 C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\MinValueLinhHo\MinValueLinhHo\bin\Debug\MinValueLinhHo.pdb
 C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\MinValueLinhHo\MinValueLinhHo\obj\Debug\MinValueLinhHo.csprojAssemblyReference.cache
-C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\MinValueLinhHo\MinValueLinhHo\obj\Debug\MinValueLinhHo.MinValueForm.resources
 C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\MinValueLinhHo\MinValueLinhHo\obj\Debug\MinValueLinhHo.Properties.Resources.resources
 C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\MinValueLinhHo\MinValueLinhHo\obj\Debug\MinValueLinhHo.csproj.GenerateResource.cache
 C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\MinValueLinhHo\MinValueLinhHo\obj\Debug\MinValueLinhHo.csproj.CoreCompileInputs.cache
 C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\MinValueLinhHo\MinValueLinhHo\obj\Debug\MinValueLinhHo.exe
 C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\MinValueLinhHo\MinValueLinhHo\obj\Debug\MinValueLinhHo.pdb
+C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\MinValueLinhHo\MinValueLinhHo\obj\Debug\MinValueLinhHo.frmMinValue.resources

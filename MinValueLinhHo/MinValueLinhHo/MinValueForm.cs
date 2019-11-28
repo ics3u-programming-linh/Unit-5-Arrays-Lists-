@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+ * Created by: Linh Ho
+ * Created on: November 27th, 2019
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #37 - Find Min Value
+ * This program...shows a list box of numbers between 1 and 500, and displays the lowest number in a label.
+*/
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -10,9 +18,9 @@ using System.Windows.Forms;
 
 namespace MinValueLinhHo
 {
-    public partial class MinValueForm : Form
+    public partial class frmMinValue : Form
     {
-        public MinValueForm()
+        public frmMinValue()
         {
             InitializeComponent();
             // hide label
@@ -72,7 +80,7 @@ namespace MinValueLinhHo
             lblAnswer.Show();
 
             // display the min value in the label 
-            this.lblAnswer.Text = "The max value is: " + minValue;
+            this.lblAnswer.Text = "The minimum value is: " + minValue;
         }
     }
 }

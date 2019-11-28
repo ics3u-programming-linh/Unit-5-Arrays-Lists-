@@ -1,6 +1,6 @@
 ﻿namespace MinValueLinhHo
 {
-    partial class MinValueForm
+    partial class frmMinValue
     {
         /// <summary>
         /// Required designer variable.
@@ -64,7 +64,7 @@
             this.btnStart.UseVisualStyleBackColor = true;
             this.btnStart.Click += new System.EventHandler(this.BtnStart_Click);
             // 
-            // MinValueForm
+            // frmMinValue
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -72,8 +72,8 @@
             this.Controls.Add(this.lblAnswer);
             this.Controls.Add(this.lstNumbers);
             this.Controls.Add(this.btnStart);
-            this.Name = "MinValueForm";
-            this.Text = "Form1";
+            this.Name = "frmMinValue";
+            this.Text = "Min Value";
             this.ResumeLayout(false);
             this.PerformLayout();
 

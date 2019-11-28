@@ -16,7 +16,7 @@ namespace MinValueLinhHo
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new MinValueForm());
+            Application.Run(new frmMinValue());
         }
     }
 }
