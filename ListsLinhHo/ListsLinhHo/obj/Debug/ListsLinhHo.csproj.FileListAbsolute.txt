@@ -1,0 +1,10 @@
+C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\ListsLinhHo\ListsLinhHo\bin\Debug\ListsLinhHo.exe.config
+C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\ListsLinhHo\ListsLinhHo\bin\Debug\ListsLinhHo.exe
+C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\ListsLinhHo\ListsLinhHo\bin\Debug\ListsLinhHo.pdb
+C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\ListsLinhHo\ListsLinhHo\obj\Debug\ListsLinhHo.csprojAssemblyReference.cache
+C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\ListsLinhHo\ListsLinhHo\obj\Debug\ListsLinhHo.frmLists.resources
+C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\ListsLinhHo\ListsLinhHo\obj\Debug\ListsLinhHo.Properties.Resources.resources
+C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\ListsLinhHo\ListsLinhHo\obj\Debug\ListsLinhHo.csproj.GenerateResource.cache
+C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\ListsLinhHo\ListsLinhHo\obj\Debug\ListsLinhHo.csproj.CoreCompileInputs.cache
+C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\ListsLinhHo\ListsLinhHo\obj\Debug\ListsLinhHo.exe
+C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\ListsLinhHo\ListsLinhHo\obj\Debug\ListsLinhHo.pdb
