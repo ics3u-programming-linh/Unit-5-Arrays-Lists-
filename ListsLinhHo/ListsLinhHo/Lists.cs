@@ -4,9 +4,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace MinValueLinhHo
+namespace ListsLinhHo
 {
-    static class MinValue
+    static class Lists
     {
         /// <summary>
         /// The main entry point for the application.
@@ -16,7 +16,7 @@ namespace MinValueLinhHo
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmMinValue());
+            Application.Run(new frmLists());
         }
     }
 }
