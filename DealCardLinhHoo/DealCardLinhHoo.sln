@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DealCardLinhHoo", "DealCardLinhHoo\DealCardLinhHoo.csproj", "{EB6E1D12-615D-4126-9D54-0F541BB3045B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB6E1D12-615D-4126-9D54-0F541BB3045B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB6E1D12-615D-4126-9D54-0F541BB3045B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB6E1D12-615D-4126-9D54-0F541BB3045B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB6E1D12-615D-4126-9D54-0F541BB3045B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B65EFD0E-555F-434E-A8EC-5D71D24BDA19}
+	EndGlobalSection
+EndGlobal

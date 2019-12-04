@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EB6E1D12-615D-4126-9D54-0F541BB3045B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>DealCardLinhHoo</RootNamespace>
+    <AssemblyName>DealCardLinhHoo</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DealCardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DealCardForm.Designer.cs">
+      <DependentUpon>DealCardForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DealCard.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="DealCardForm.resx">
+      <DependentUpon>DealCardForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\2C.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\2D.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\2H.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\2S.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\3C.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\3D.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\3H.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\3S.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\4C.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\4D.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\4H.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\4S.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\5C.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\5D.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\5H.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\5S.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\6C.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\6D.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\6H.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\6S.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\7C.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\7D.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\7H.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\7S.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\8C.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\8D.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\8H.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\8S.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\9C.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\9D.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\9H.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\9S.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\10C.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\10D.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\10H.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\10S.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\AC.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\AD.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\AH.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\AS.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\Front.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\JC.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\JD.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\JH.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\JS.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\KC.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\KD.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\KH.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\KS.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\QC.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\QD.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\QH.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\QS.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\Back.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
