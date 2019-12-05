@@ -1,0 +1,10 @@
+C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\DealCardLinhHoo\DealCardLinhHoo\bin\Debug\DealCardLinhHoo.exe.config
+C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\DealCardLinhHoo\DealCardLinhHoo\bin\Debug\DealCardLinhHoo.exe
+C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\DealCardLinhHoo\DealCardLinhHoo\bin\Debug\DealCardLinhHoo.pdb
+C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\DealCardLinhHoo\DealCardLinhHoo\obj\Debug\DealCardLinhHoo.csprojAssemblyReference.cache
+C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\DealCardLinhHoo\DealCardLinhHoo\obj\Debug\DealCardLinhHoo.frmDealCard.resources
+C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\DealCardLinhHoo\DealCardLinhHoo\obj\Debug\DealCardLinhHoo.Properties.Resources.resources
+C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\DealCardLinhHoo\DealCardLinhHoo\obj\Debug\DealCardLinhHoo.csproj.GenerateResource.cache
+C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\DealCardLinhHoo\DealCardLinhHoo\obj\Debug\DealCardLinhHoo.csproj.CoreCompileInputs.cache
+C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\DealCardLinhHoo\DealCardLinhHoo\obj\Debug\DealCardLinhHoo.exe
+C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\DealCardLinhHoo\DealCardLinhHoo\obj\Debug\DealCardLinhHoo.pdb

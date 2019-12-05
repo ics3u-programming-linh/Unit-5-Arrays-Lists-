@@ -51,6 +51,7 @@
             this.picCard6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picCard6.TabIndex = 5;
             this.picCard6.TabStop = false;
+            this.picCard6.Click += new System.EventHandler(this.PicCard6_Click);
             // 
             // picCard5
             // 
@@ -61,6 +62,7 @@
             this.picCard5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picCard5.TabIndex = 4;
             this.picCard5.TabStop = false;
+            this.picCard5.Click += new System.EventHandler(this.PicCard5_Click);
             // 
             // picCard4
             // 
@@ -71,6 +73,7 @@
             this.picCard4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picCard4.TabIndex = 3;
             this.picCard4.TabStop = false;
+            this.picCard4.Click += new System.EventHandler(this.PicCard4_Click);
             // 
             // picCard3
             // 
@@ -81,6 +84,7 @@
             this.picCard3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picCard3.TabIndex = 2;
             this.picCard3.TabStop = false;
+            this.picCard3.Click += new System.EventHandler(this.PicCard3_Click);
             // 
             // picCard2
             // 
@@ -91,6 +95,7 @@
             this.picCard2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picCard2.TabIndex = 1;
             this.picCard2.TabStop = false;
+            this.picCard2.Click += new System.EventHandler(this.PicCard2_Click);
             // 
             // picCard1
             // 
