@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace FileRWLinhH
 {
-    static class Program
+    static class FileReadWrite
     {
         /// <summary>
         /// The main entry point for the application.

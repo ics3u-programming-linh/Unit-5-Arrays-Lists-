@@ -1,6 +1,6 @@
 ﻿namespace FileRWLinhH
 {
-    partial class Form1
+    partial class FileReadWriteForm
     {
         /// <summary>
         /// Required designer variable.
