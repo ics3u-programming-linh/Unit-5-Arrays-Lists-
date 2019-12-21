@@ -1,0 +1,9 @@
+C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\FileRWLinhH\FileRWLinhH\obj\Debug\FileRWLinhH.csprojAssemblyReference.cache
+C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\FileRWLinhH\FileRWLinhH\obj\Debug\FileRWLinhH.frmFileReadWrite.resources
+C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\FileRWLinhH\FileRWLinhH\obj\Debug\FileRWLinhH.Properties.Resources.resources
+C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\FileRWLinhH\FileRWLinhH\obj\Debug\FileRWLinhH.csproj.GenerateResource.cache
+C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\FileRWLinhH\FileRWLinhH\bin\Debug\FileRWLinhH.exe.config
+C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\FileRWLinhH\FileRWLinhH\bin\Debug\FileRWLinhH.exe
+C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\FileRWLinhH\FileRWLinhH\bin\Debug\FileRWLinhH.pdb
+C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\FileRWLinhH\FileRWLinhH\obj\Debug\FileRWLinhH.exe
+C:\Users\Linh_\Desktop\Unit-5-Arrays-Lists-\FileRWLinhH\FileRWLinhH\obj\Debug\FileRWLinhH.pdb

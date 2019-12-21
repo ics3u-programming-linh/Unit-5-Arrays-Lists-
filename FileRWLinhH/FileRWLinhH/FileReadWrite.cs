@@ -16,7 +16,7 @@ namespace FileRWLinhH
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FileReadWriteForm());
+            Application.Run(new frmFileReadWrite());
         }
     }
 }
